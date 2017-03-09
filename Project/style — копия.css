@@ -1,0 +1,10 @@
+header {font-size: 25px;}
+ul li {
+display: inline-block;
+}
+a {
+	 text-decoration: none; 
+}
+a {
+	color: purple;
+}
