@@ -1,14 +1,15 @@
 body {
 	margin: 0;
 
-}
+	}
 ul li {
-display: inline-block;
-}
+	display: inline-block;
+	text-align: justify;
+	}
 
 img {
 	width: 100%;
-}
+	}
 
 section {
 	padding-top: 10px
